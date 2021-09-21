@@ -1,6 +1,6 @@
 // Initializing the elements of an array to
 // Default values of zero.
-public class InitIntArray {
+public class InitIntArrayA {
     public static void main(String[] args){
         int[] array=new int[10];
         // Column headings
