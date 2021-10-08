@@ -16,6 +16,6 @@ public class ArrCopy {
         System.out.println("\n\nContents of b[] ");
         for (int i=0; i<a.length; i++)
             System.out.print(b[i] + " ");
-        System.out.println("");
+        System.out.println();
     }
 }
