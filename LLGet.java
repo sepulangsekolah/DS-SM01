@@ -1,4 +1,3 @@
-
 // Java code to demonstrate the working
 // of get(int index) in linked list
 import java.util.LinkedList;
